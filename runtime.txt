@@ -1,0 +1,7 @@
+# in the project folder cloned from GitHub
+echo "python-3.11" > runtime.txt        # <- new file
+# open requirements.txt and make sure matplotlib is listed (it already is)
+
+git add runtime.txt requirements.txt
+git commit -m "Pin Python 3.11 and ensure matplotlib in requirements"
+git push
