@@ -10,7 +10,7 @@ User‑requested order:
 4. **CR‑model comparison (SACF‑corrected intensities)**
 
 Electron‑temperature range input (Te_min / Te_max) retained from original code.
-Updated on 2025‑08‑25 by ChatGPT.
+Updated on 2025‑08‑25.
 """
 
 # ------------------------------------------------------------------
